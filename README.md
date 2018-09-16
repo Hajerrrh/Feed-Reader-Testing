@@ -6,7 +6,7 @@ In this projectI was given a web-based application that reads RSS feeds. [Jasmin
 
 In order to run the application you can:
 
-* Open it directly from its page https://hajerrrh.github.io/Feed-Reader-Testing/ 
+
 * Download this GitHub Repository to your machine, extract the (.zip) folder and open index.html from a browser
 * Clone or fork this project:
 
